@@ -1,0 +1,14 @@
+table,th,td,tr {
+    border-spacing: 2px;
+    border:solid 1px rgb(31, 18, 199);
+    width: 30%;
+}
+
+table {
+  color: rgb(0, 0, 0);  
+  text-align: center;
+}
+
+th {
+  color: blue; 
+}
